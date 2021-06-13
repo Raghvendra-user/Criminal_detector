@@ -2,9 +2,8 @@
 
 <div align='center' >Criminal Detector is based on face recognition done with <b>OpenCV</b> and its GUI made wth <b>Tkinter</b>.<br>
   We are storing Criminals data in a database, from where we retrieve criminal's info when detected.
-  
-
-![Criminal](https://user-images.githubusercontent.com/63204116/121806482-a106a180-cc6d-11eb-8552-955966c4935f.png)
+    
+![Criminal](https://user-images.githubusercontent.com/63204116/121806482-a106a180-cc6d-11eb-8552-955966c4935f.png )
 
 ![Criminal2](https://user-images.githubusercontent.com/63204116/121806486-a49a2880-cc6d-11eb-9f70-d291ea552374.png)
 
@@ -13,9 +12,9 @@
 
 <h2 align='center'>Contribute</h2>
   
-* Fork this project and download the source code. 
-* Install the python libraries (opencv-python,) 
-  and made necessary changes and make a pull request. 
+  Fork this project and download the source code. <br>
+  Install the necessary python libraries.<br>
+  Make necessary changes and make a pull request. <br> 
 
 <h2 align='center'>Connect With Me &hearts;</h2>
   
